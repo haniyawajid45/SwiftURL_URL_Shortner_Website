@@ -10,8 +10,6 @@ SwiftURL is a simple and efficient URL shortener web application. Built using on
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -77,4 +75,5 @@ SwiftURL_URL_Shortner_Website/
 
 - **Author:** [Haniya Wajid](https://github.com/haniyawajid45)
 - **Repository:** [SwiftURL_URL_Shortner_Website](https://github.com/haniyawajid45/SwiftURL_URL_Shortner_Website)
+
 
